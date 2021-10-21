@@ -1,5 +1,5 @@
 # Python Turtle Project
-<img src='https://github.com/mrprogrammer2938/Turtle-Project/blob/master/Scr/turtle-logo.jpg' width=100 height=50 >
+<img src='https://github.com/mrprogrammer2938/Turtle-Project/blob/master/Scr/turtle-logo.jpg' width=500 height=100 >
 <hr>
 
 ## Files
